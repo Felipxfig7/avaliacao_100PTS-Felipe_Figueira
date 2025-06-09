@@ -1,0 +1,5 @@
+![post_tarefas](https://github.com/user-attachments/assets/c8d7e975-d1f3-4ee0-b906-3c8d47c08fae)
+![get_tarefas](https://github.com/user-attachments/assets/eea82f5a-fbbf-4d25-ae8d-bfc0082e28dd)
+![Filtragem_tarefas](https://github.com/user-attachments/assets/c4fa182f-e19c-47f1-9200-f339a19357d5)
+![put_tarefas](https://github.com/user-attachments/assets/65934190-18cf-4aed-b764-9f1c84cbdf12)
+![delete_tarefas](https://github.com/user-attachments/assets/ed162fb1-6b8a-44fc-959b-6e8ff454d49a)
